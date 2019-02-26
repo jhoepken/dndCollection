@@ -18,7 +18,7 @@ Generators for all kinds of things: stores, NPCs, loot tables and similar things
 * [Auto Roll Tables](https://autorolltables.github.io/) by dangeratio
 * [NPC Generator by profession](http://miniworlds.online/generators/generateNPC.html)
 * [Donjon](http://donjon.bin.sh/)
-* [Mithril Mages](https://www.mithrilandmages.com/utilities/5ETreasure.php)
+* [Treasure Generator](https://www.mithrilandmages.com/utilities/5ETreasure.php) by Mithril Mages
 * [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) by watabou
 * [Town Statistics Generator](http://www.rdinn.com/calc_town.php)
 * [Demographics Generator](http://www.d20srd.org/d20/demographics/)
@@ -47,3 +47,9 @@ Simulators for encounters etc.
 
 ## Worldbuilding
 * [Pantheons](https://roll20.net/compendium/dnd5e/Pantheons#content)
+
+## Economy
+* [Costs of Spell Scrolls](https://www.reddit.com/r/DnD/comments/5buyw8/5e_the_cost_of_spell_scrolls/)
+
+## Names
+* [Medieval Name List](https://www.mithrilandmages.com/utilities/MedievalBrowse.php) by Mithril Mages
