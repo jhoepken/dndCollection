@@ -1,6 +1,9 @@
 # dndCollection - A Link Collection for D&D
 Collection of links, tools, documents and templates for fellow Dungeon Masters.
 
+## General Reads for DMs
+* [Instant Campaign Builder](http://www.dungeonmastering.com/InstantCampaignBuilder.pdf) by DungeonMastering.com
+
 ## One Page Dungeons
 Various 1-page dungeons and collections of such dungeons that can be used for inspiration.
 
@@ -53,3 +56,6 @@ Simulators for encounters etc.
 
 ## Names
 * [Medieval Name List](https://www.mithrilandmages.com/utilities/MedievalBrowse.php) by Mithril Mages
+
+## Art
+* [JCM's RPG Art & NPCs](http://jcmrpgart.blogspot.com/)
